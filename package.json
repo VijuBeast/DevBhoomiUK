@@ -1,0 +1,17 @@
+{
+  "name": "mediabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro-bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "micro-bot": "^2.5.3",
+    "nodemon": "^2.0.4",
+    "telegraf": "^3.38.0"
+  }
+}
